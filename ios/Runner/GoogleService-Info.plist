@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>434950088211-j9stugesvgmi5dj7cadm5mjjplg4umvv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.434950088211-j9stugesvgmi5dj7cadm5mjjplg4umvv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAn9UEsIGXMJpfITFjgg8MVc9jjLd0ro-k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>434950088211</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bodytechPrueba</string>
+	<key>PROJECT_ID</key>
+	<string>bodytech-pruebas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bodytech-pruebas.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:434950088211:ios:6272c6704d25c7e80841e6</string>
+</dict>
+</plist>
