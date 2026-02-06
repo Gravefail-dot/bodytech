@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434950088211",
+    "project_id": "bodytech-pruebas",
+    "storage_bucket": "bodytech-pruebas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434950088211:android:6f07931bbf4fbdee0841e6",
+        "android_client_info": {
+          "package_name": "com.example.bodytech_prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLSqWY6cl91upX4BCZHPC6JPvFC05NO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
